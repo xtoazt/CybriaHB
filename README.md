@@ -10,11 +10,11 @@ CybriaHB is a testing site for HyperBeam's API, along with the hopes of using vi
 
 Fork this repo and go to the <b>config</b> folder and click <b>config.json</b>, in the <b>HB_PROD_KEY</b> property, replace the placeholder value with your HyperBeam production api key provided.
 
-`
+```
 {
   "HB_PROD_KEY": "KEY-HERE"
 }
-`
+```
 
 remember to replace <b>KEY-HERE</b> with your production key.
 
