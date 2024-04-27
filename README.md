@@ -27,6 +27,7 @@ Go to https://hyperbeam.com, click <b>Use Hyperbeam</b> in the header, in the op
 - Some websites can be blocked either by U-block Origin or perhaps your firewalls.
 - Unable to use any other aps than the browser
 - May freeze or buffer at certain times.
+- Hyperbeam sessions are the same for everyone (For your API Key)
 
 # 🛫Deploy
 
